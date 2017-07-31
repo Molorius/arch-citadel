@@ -1,6 +1,6 @@
 # ArchCitadel
 Start to finish installation guide for Arch Linux on desktops and Raspberry Pi
-    by Adam
+    in loving memory of Adam
 
 # Important
 
